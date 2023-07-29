@@ -1,0 +1,67 @@
+{
+  "title": "Maya Shavin - Web Developer, Speaker, Blogger",
+  "navigation": {
+    "about": "About",
+    "projects": "Projects",
+    "speaker": "Speaking",
+    "articles": "Writing",
+    "resources": "Resources",
+    "contact": "Contact"
+  },
+  "homepage": {
+    "title": {
+      "speaker": "Speaker",
+      "web": "Web developer",
+      "organizer": "Organizer",
+      "bookworm": "Bookworm",
+      "blogger": "Blogger"
+    },
+    "greeting": "Hi, my name is Maya."
+  },
+  "footer": {
+    "disclaimer": "Designed & Developed by Maya Shavin",
+    "copyright": "© {date}"
+  },
+  "socials": {
+    "twitter": "Follow my Twitter",
+    "facebook": "Visit my Facebook page",
+    "linkedin": "Visit my LinkedIn Profile",
+    "github": "Visit my Github repos",
+    "youtube": "Subscribe to my Youtube Channel",
+    "medium": "Visit my Medium blog"
+  },
+  "error": {
+    "codes": {
+      "404": "Uh oh, you got the wrong link 😿",
+      "default": "Something is wrong 😢."
+    },
+    "message": "Try the options in the nav bar or",
+    "actions": {
+      "home": "Take me to home page"
+    }
+  },
+  "about": {
+    "title": "A bit about me - Maya Shavin",
+    "description": "Some brief info about what I do and some of my current side projects"
+  },
+  "speaker": {
+    "title": "Maya Shavin as a speaker",
+    "description": "My updated schedule of conferences, meetups and workshops where I participated or will participate next."
+  },
+  "articles": {
+    "title": "Maya's blog - Everything about coding & JavaScript",
+    "description": "This is my personal blog, where you will find tutorials on JavaScript, Vue, Nuxt, CSS and anything related to frontend development."
+  },
+  "resources": {
+    "title": "Maya's corner - Talks, interviews, podcasts, books and courses",
+    "description": "A collection of podcasts, interviews, talks videos featured me, and my other works like books and tutorial course.",
+    "sections": {
+      "podcasts": "Podcasts",
+      "videos": "Videos",
+      "books": "Books",
+      "courses": "Courses"
+    },
+    "comingsoon": "Coming soon"
+  },
+  "sortBy": "Sort by"
+}
